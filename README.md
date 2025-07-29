@@ -342,7 +342,7 @@ Replace `example1.txt` with the desired example file.
 The implementation uses a `Position` class that provides an abstraction over complex numbers for position tracking. This provides:
 
 1. Simple x,y coordinate access
-2. Movement calculations that hide complex number math
+2. Movement calculations that hide complex number mathematics so non-mathematical developers can still edit any other files
 3. Clear bounds-checking to prevent falling off the table
 4. Intuitive methods for movement and position manipulation
 
