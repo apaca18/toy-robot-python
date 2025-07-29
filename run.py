@@ -1,11 +1,13 @@
-# -*- coding: utf-8 
-#----------------------------------------------------------------------------
-# Created By  Aaron PAcanowski 
-# Created Date: 17/7/2025
-# version ='1.0'
-# ---------------------------------------------------------------------------
-"""Toy Robot Challenge"""
-# ---------------------------------------------------------------------------
+"""
+Filename: run.py
+Author: Aaron Pacanowski
+Email: aaronpaca@gmail.com
+Date: 2025-07-28
+Description:
+    Main entry point for the Toy Robot application.
+    Handles command processing from interactive input or file input,
+    and coordinates the robot's actions on the table.
+"""
 
 from toyrobot.robot import Robot
 from toyrobot.robot_rotator import RobotRotator
