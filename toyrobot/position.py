@@ -6,7 +6,7 @@ Date: 2025-07-28
 Description:
     This module provides a Position class that abstracts the representation
     of a 2D position using complex numbers. It simplifies position manipulation
-    without requiring knowledge of complex number mathematics.
+    so developers can edit other files without requiring knowledge of complex number mathematics.
 """
 import cmath
 import math
