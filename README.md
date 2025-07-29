@@ -2,7 +2,7 @@
 
 **Author**: Aaron Pacanowski  
 **Email**: aaronpaca@gmail.com  
-**Phone**: 0468451613  
+**Phone**: +61468451613  
 **Date**: 28/7/2025
 
 A command-line application that simulates a toy robot moving on a square tabletop.
