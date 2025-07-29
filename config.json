@@ -1,0 +1,12 @@
+{
+    "table_size": {
+      "width": 5,
+      "length": 5
+    },
+    "directions": {
+      "NORTH": 90,
+      "EAST": 0,
+      "SOUTH": 270,
+      "WEST": 180
+    }
+}
