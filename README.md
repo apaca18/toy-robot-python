@@ -51,7 +51,7 @@ REPORT
 No installation is required. Just clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/apaca18/toy-robot-python.git
 cd toy-robot-python
 ```
 
